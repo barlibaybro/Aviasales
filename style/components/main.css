@@ -16,13 +16,18 @@ p{
 
 }
 
-input{
-	width: 50px;
+.left input{
+	width: 40px;
+	height: 22px;
+}
+
+.right input{
+	width: 75px;
 	height: 22px;
 }
 
 button{
-	width: 200px;
+	width: 230px;
 }
 .top{
 	margin-top: 25px;
