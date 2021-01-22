@@ -1,0 +1,91 @@
+h1{
+	font-size: 24px;
+	line-height: 28px;
+	text-align: center;
+}
+h3{
+	font-size: 18px;
+	line-height: 22px;
+}
+h5{
+	font-size: 16px;
+	line-height: 28px;
+
+}
+p{
+
+}
+
+input{
+	width: 50px;
+	height: 22px;
+}
+
+button{
+	width: 200px;
+}
+.top{
+	margin-top: 25px;
+}
+.main{
+	margin: 20px 10%;
+	width: 80%;
+	display: flex;
+	justify-content: center;
+
+
+
+}
+
+.left{
+	width: 230px;
+	height: 230px;
+	margin-right: 20px;
+	padding: 15px;
+	background-color: #F2F3F4;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.l1{
+	width: 50%;
+
+}
+.l2{
+	width: 50%;
+	display: flex;
+	justify-content: center;
+}
+
+.right{
+	width: 230px;
+	margin-left: 20px;
+
+}
+
+.r1{
+	width: calc(100% - 30px);
+	height: 100px;
+	padding: 15px;
+	background-color: #F2F3F4;
+	border: 1px;
+}
+
+.r2{
+	width: calc(100% - 30px);
+	height: 100px;
+	padding: 15px;
+	display: flex;
+	align-items: flex-end;
+	background-color: #F2F3F4;
+	border: 1px;
+}
+
+.total{
+	width: 230px;
+	height: 50px;
+	margin-right: 20px;
+	padding: 15px;
+	background-color: #F2F3F4;
+}
